@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hero",
+  "base_artist": "Aerwavez Music",
+  "createdAt": "2025-12-29T09:03:42.807467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Anti-Hero_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Holding out for a Hero",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/02_Holding_out_for_a_Hero_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Guitar Hero",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/03_Guitar_Hero_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guitar Hero - Alternate Version",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/04_Guitar_Hero_-_Alternate_Version_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guitar Hero [Feat. East Bay Ray]",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/05_Guitar_Hero_[Feat._East_Bay_Ray]_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody's Hero",
+      "artist": "Jamie O'Neal",
+      "has_synced": true,
+      "path": "select/06_Somebody's_Hero_Jamie_O'Neal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Working Class Hero",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/07_Working_Class_Hero_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm in Love With the Hero",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/08_I'm_in_Love_With_the_Hero_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Holding Out for a Hero",
+      "artist": "Frou Frou",
+      "has_synced": true,
+      "path": "select/09_Holding_Out_for_a_Hero_Frou_Frou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Holding Out For A Hero",
+      "artist": "Frou Frou",
+      "has_synced": false,
+      "path": "select/10_Holding_Out_For_A_Hero_Frou_Frou.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Folk Hero Shtick",
+      "artist": "Yeasayer",
+      "has_synced": true,
+      "path": "select/11_Folk_Hero_Shtick_Yeasayer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hero",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/12_Hero_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM feat. E. Mason",
+      "has_synced": true,
+      "path": "select/13_Hero_v.s._Villain_(Epilogue)_MF_DOOM_feat._E._Mason.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hero Vs Villain (Epilogue)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/14_Hero_Vs_Villain_(Epilogue)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HERO",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/15_HERO_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'll Never Be Anybody's Hero Now",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/16_I'll_Never_Be_Anybody's_Hero_Now_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Never Be Anybody's Hero Now (Live From The London Palladium)",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/17_I'll_Never_Be_Anybody's_Hero_Now_(Live_From_The_London_Palladium)_Morrissey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hero",
+      "artist": "Aerwavez Music",
+      "has_synced": false,
+      "path": "select/pl_01_Hero_Aerwavez_Music.txt"
+    }
+  ]
+}
