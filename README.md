@@ -1,0 +1,49 @@
+# Aerwavez Music – Hero
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Underneath the fading sky,I learn to breathe
+Every shadow whispers what I used to be
+壊れた夢もcan turn to light
+Even in the dark,your hand feels right
+Through the silence,hope still stays
+Guiding me through endless days
+When the world begins to fall apart
+I’ll be the fire burning in the dark
+Through the storm I’ll carry all the weight
+壊れないI won’t break
+I’ll be the hero,even if I stand alone
+Fighting for a love I’ve always known
+Through the silence,through the fear I go
+君のためにI’ll be the hero
+I’ll be the hero
+Every promise echoes in my veins
+Every loss has taught me not in vain
+From the ashes,I will rise again
+Unbroken,stronger than the pain
+引き戻してwhen I lose my way
+Your voice is the light that makes me stay
+When the world begins to fall apart
+I’ll be the fire burning in the dark
+Through the storm I’ll carry all the weight
+壊れないI won’t break
+I’ll be the hero,even if I stand alone
+Fighting for a love I’ve always known
+Through the silence,through the fear I go
+君だけはI won’t let go
+I’ll be the hero
+I’ll be the hero
+守るよI’ll protect you
+I’ll be the hero
+永遠に-forever true
+When the night is cold,I’ll light the way
+When your hope is gone,I’ll still remain
+どんな時もby your side
+一緒にいる、ずっとall my life
+I’ll be the hero even if I stand alone
+Fighting for a love I’ve always known
+Through the silence,through the fear I go
+君のためにI’ll be the hero
+I’ll be the hero
+```
